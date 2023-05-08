@@ -25,3 +25,5 @@ return
 !+z::
 Send ^y
 return
+
+LAlt::LCtrl
